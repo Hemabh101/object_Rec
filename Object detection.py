@@ -2,9 +2,10 @@ import cv2
 
 
 ref_images = [
-    #("Hemabh", cv2.imread(r"C:\Users\Hemab\OneDrive\Pictures\Camera Roll\WIN_20231220_19_45_29_Pro.jpg")),
-    #("Blackberry box", cv2.imread(r"C:\Users\Hemab\OneDrive\Pictures\Camera Roll\WIN_20231220_20_05_32_Pro.jpg")),
-    ("Preksha", cv2.imread(r"C:\Users\Hemab\OneDrive\Pictures\Camera Roll\WIN_20240103_22_07_36_Pro.jpg"))
+    ("Object_Name", cv2.imread(r"Location")),
+    ("Object_Name", cv2.imread(r"Location")),
+    ("Object_Name", cv2.imread(r"Location"))
+    #add "r" only when you are using local location
     
 ]
 
