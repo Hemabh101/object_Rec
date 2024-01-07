@@ -1,5 +1,5 @@
 # object_Rec
- Built a real-time object detector in Python using OpenCV! ️‍♀️ Identifies objects in images &amp; videos with customizable templates. Perfect for projects like interactive displays, robotics, or even analyzing research images.
+ Built a real-time object detector in Python using OpenCV! Identifies objects in images &amp; videos with customizable templates. Perfect for projects like interactive displays, robotics, or even analyzing research images.
 
 I'm excited to present a Python-based object detection model I've developed, utilizing the OpenCV library (cv2) and image data.
 
